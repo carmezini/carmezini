@@ -4,7 +4,7 @@ My name is Artur Carmezini, and I recently graduated in Information Systems from
 
 - 💻 I’m currently working at Veeries.
 - 🌱 My main tech stacks are React and Next.js.
-- 👯 I’m currently reading 21 Lessons for the 21st Century and Homo Deus.
+- 👯 I’m currently reading Il bambino che disegnava le ombre.
 - 💬 Ask me about Hip-Hop, games in general or even american sports.
 - 📫 How to reach me: arturcarmezini@gmail.com or artur_carmezini@hotmail.com
 - ⚡ Fun fact: Sushi is my favorite food but I do not like fish. yep.
